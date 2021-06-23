@@ -8,3 +8,13 @@ section {
     margin: 0;
     background: red;
   }
+
+  #myParagraph {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  #mySection {
+    position: relative;
+  }
